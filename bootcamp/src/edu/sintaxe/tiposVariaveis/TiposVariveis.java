@@ -1,4 +1,4 @@
-package edu.camili.tiposVariaveis;
+package edu.sintaxe.tiposVariaveis;
 
 public class TiposVariveis {
     public static void main(String[] args) {

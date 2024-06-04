@@ -1,4 +1,4 @@
-package edu.camili.anatomiaClasse;
+package edu.sintaxe.anatomiaClasse;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
